@@ -1,2 +1,2 @@
-# examp
-sample file
+HEllo KJC
+WELCOME
